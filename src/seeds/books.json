@@ -1,0 +1,1497 @@
+[
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "publisher": "Penguin",
+        "pages": 328,
+        "year": 1949,
+        "language": "en",
+        "isbn": "9780451524935",
+        "genres": [
+            "dystopian",
+            "science fiction"
+        ]
+    },
+    {
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "publisher": "Penguin",
+        "pages": 112,
+        "year": 1945,
+        "language": "en",
+        "isbn": "9780451526342",
+        "genres": [
+            "political satire",
+            "fiction"
+        ]
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publisher": "HarperCollins",
+        "pages": 336,
+        "year": 1960,
+        "language": "en",
+        "isbn": "9780061120084",
+        "genres": [
+            "classic",
+            "drama"
+        ]
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publisher": "Scribner",
+        "pages": 180,
+        "year": 1925,
+        "language": "en",
+        "isbn": "9780743273565",
+        "genres": [
+            "classic",
+            "drama"
+        ]
+    },
+    {
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "publisher": "Penguin Classics",
+        "pages": 720,
+        "year": 2003,
+        "language": "en",
+        "isbn": "9780142437247",
+        "genres": [
+            "classic",
+            "adventure"
+        ]
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "publisher": "Penguin Classics",
+        "pages": 279,
+        "year": 2002,
+        "language": "en",
+        "isbn": "9780141439518",
+        "genres": [
+            "classic",
+            "romance"
+        ]
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "publisher": "Little, Brown and Company",
+        "pages": 277,
+        "year": 1951,
+        "language": "en",
+        "isbn": "9780316769488",
+        "genres": [
+            "classic",
+            "coming-of-age"
+        ]
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "publisher": "HarperCollins",
+        "pages": 310,
+        "year": 1937,
+        "language": "en",
+        "isbn": "9780261102217",
+        "genres": [
+            "fantasy",
+            "adventure"
+        ]
+    },
+    {
+        "title": "The Fellowship of the Ring",
+        "author": "J.R.R. Tolkien",
+        "publisher": "HarperCollins",
+        "pages": 423,
+        "year": 1954,
+        "language": "en",
+        "isbn": "9780261102354",
+        "genres": [
+            "fantasy",
+            "adventure"
+        ]
+    },
+    {
+        "title": "The Two Towers",
+        "author": "J.R.R. Tolkien",
+        "publisher": "HarperCollins",
+        "pages": 352,
+        "year": 1954,
+        "language": "en",
+        "isbn": "9780261102361",
+        "genres": [
+            "fantasy",
+            "adventure"
+        ]
+    },
+    {
+        "title": "The Return of the King",
+        "author": "J.R.R. Tolkien",
+        "publisher": "HarperCollins",
+        "pages": 416,
+        "year": 1955,
+        "language": "en",
+        "isbn": "9780261102378",
+        "genres": [
+            "fantasy",
+            "adventure"
+        ]
+    },
+    {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "publisher": "Bloomsbury",
+        "pages": 309,
+        "year": 1997,
+        "language": "en",
+        "isbn": "9780747532699",
+        "genres": [
+            "fantasy",
+            "children"
+        ]
+    },
+    {
+        "title": "Harry Potter and the Chamber of Secrets",
+        "author": "J.K. Rowling",
+        "publisher": "Bloomsbury",
+        "pages": 341,
+        "year": 1998,
+        "language": "en",
+        "isbn": "9780747538493",
+        "genres": [
+            "fantasy",
+            "children"
+        ]
+    },
+    {
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "author": "J.K. Rowling",
+        "publisher": "Bloomsbury",
+        "pages": 435,
+        "year": 1999,
+        "language": "en",
+        "isbn": "9780747542155",
+        "genres": [
+            "fantasy",
+            "children"
+        ]
+    },
+    {
+        "title": "Harry Potter and the Goblet of Fire",
+        "author": "J.K. Rowling",
+        "publisher": "Bloomsbury",
+        "pages": 636,
+        "year": 2000,
+        "language": "en",
+        "isbn": "9780747546245",
+        "genres": [
+            "fantasy",
+            "children"
+        ]
+    },
+    {
+        "title": "Harry Potter and the Order of the Phoenix",
+        "author": "J.K. Rowling",
+        "publisher": "Bloomsbury",
+        "pages": 766,
+        "year": 2003,
+        "language": "en",
+        "isbn": "9780747551003",
+        "genres": [
+            "fantasy",
+            "children"
+        ]
+    },
+    {
+        "title": "Harry Potter and the Half-Blood Prince",
+        "author": "J.K. Rowling",
+        "publisher": "Bloomsbury",
+        "pages": 607,
+        "year": 2005,
+        "language": "en",
+        "isbn": "9780747581086",
+        "genres": [
+            "fantasy",
+            "children"
+        ]
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows",
+        "author": "J.K. Rowling",
+        "publisher": "Bloomsbury",
+        "pages": 759,
+        "year": 2007,
+        "language": "en",
+        "isbn": "9780545010221",
+        "genres": [
+            "fantasy",
+            "children"
+        ]
+    },
+    {
+        "title": "A Game of Thrones",
+        "author": "George R.R. Martin",
+        "publisher": "Bantam",
+        "pages": 835,
+        "year": 1996,
+        "language": "en",
+        "isbn": "9780553103540",
+        "genres": [
+            "fantasy",
+            "epic"
+        ]
+    },
+    {
+        "title": "A Clash of Kings",
+        "author": "George R.R. Martin",
+        "publisher": "Bantam",
+        "pages": 761,
+        "year": 1998,
+        "language": "en",
+        "isbn": "9780553108033",
+        "genres": [
+            "fantasy",
+            "epic"
+        ]
+    },
+    {
+        "title": "A Storm of Swords",
+        "author": "George R.R. Martin",
+        "publisher": "Bantam",
+        "pages": 973,
+        "year": 2000,
+        "language": "en",
+        "isbn": "9780553106633",
+        "genres": [
+            "fantasy",
+            "epic"
+        ]
+    },
+    {
+        "title": "A Feast for Crows",
+        "author": "George R.R. Martin",
+        "publisher": "Bantam",
+        "pages": 753,
+        "year": 2005,
+        "language": "en",
+        "isbn": "9780553801507",
+        "genres": [
+            "fantasy",
+            "epic"
+        ]
+    },
+    {
+        "title": "A Dance with Dragons",
+        "author": "George R.R. Martin",
+        "publisher": "Bantam",
+        "pages": 1056,
+        "year": 2011,
+        "language": "en",
+        "isbn": "9780553801477",
+        "genres": [
+            "fantasy",
+            "epic"
+        ]
+    },
+    {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "publisher": "Ace",
+        "pages": 688,
+        "year": 1965,
+        "language": "en",
+        "isbn": "9780441172719",
+        "genres": [
+            "science fiction",
+            "adventure"
+        ]
+    },
+    {
+        "title": "Dune Messiah",
+        "author": "Frank Herbert",
+        "publisher": "Ace",
+        "pages": 336,
+        "year": 1969,
+        "language": "en",
+        "isbn": "9780441172696",
+        "genres": [
+            "science fiction",
+            "adventure"
+        ]
+    },
+    {
+        "title": "Children of Dune",
+        "author": "Frank Herbert",
+        "publisher": "Ace",
+        "pages": 624,
+        "year": 1976,
+        "language": "en",
+        "isbn": "9780441104024",
+        "genres": [
+            "science fiction",
+            "adventure"
+        ]
+    },
+    {
+        "title": "Foundation",
+        "author": "Isaac Asimov",
+        "publisher": "Bantam",
+        "pages": 255,
+        "year": 1951,
+        "language": "en",
+        "isbn": "9780553293357",
+        "genres": [
+            "science fiction",
+            "classic"
+        ]
+    },
+    {
+        "title": "Foundation and Empire",
+        "author": "Isaac Asimov",
+        "publisher": "Bantam",
+        "pages": 247,
+        "year": 1952,
+        "language": "en",
+        "isbn": "9780553293371",
+        "genres": [
+            "science fiction",
+            "classic"
+        ]
+    },
+    {
+        "title": "Second Foundation",
+        "author": "Isaac Asimov",
+        "publisher": "Bantam",
+        "pages": 240,
+        "year": 1953,
+        "language": "en",
+        "isbn": "9780553293364",
+        "genres": [
+            "science fiction",
+            "classic"
+        ]
+    },
+    {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "publisher": "Harper Perennial",
+        "pages": 288,
+        "year": 1932,
+        "language": "en",
+        "isbn": "9780060850524",
+        "genres": [
+            "dystopian",
+            "classic"
+        ]
+    },
+    {
+        "title": "The Handmaid's Tale",
+        "author": "Margaret Atwood",
+        "publisher": "Anchor",
+        "pages": 311,
+        "year": 1985,
+        "language": "en",
+        "isbn": "9780385490818",
+        "genres": [
+            "dystopian",
+            "literary"
+        ]
+    },
+    {
+        "title": "The Testaments",
+        "author": "Margaret Atwood",
+        "publisher": "Nan A. Talese",
+        "pages": 419,
+        "year": 2019,
+        "language": "en",
+        "isbn": "9780385543781",
+        "genres": [
+            "dystopian",
+            "literary"
+        ]
+    },
+    {
+        "title": "The Road",
+        "author": "Cormac McCarthy",
+        "publisher": "Knopf",
+        "pages": 287,
+        "year": 2006,
+        "language": "en",
+        "isbn": "9780307265432",
+        "genres": [
+            "post-apocalyptic",
+            "literary"
+        ]
+    },
+    {
+        "title": "The Martian",
+        "author": "Andy Weir",
+        "publisher": "Crown",
+        "pages": 387,
+        "year": 2011,
+        "language": "en",
+        "isbn": "9780804139021",
+        "genres": [
+            "science fiction",
+            "adventure"
+        ]
+    },
+    {
+        "title": "Ender's Game",
+        "author": "Orson Scott Card",
+        "publisher": "Tor",
+        "pages": 324,
+        "year": 1985,
+        "language": "en",
+        "isbn": "9780812550702",
+        "genres": [
+            "science fiction",
+            "military"
+        ]
+    },
+    {
+        "title": "Neuromancer",
+        "author": "William Gibson",
+        "publisher": "Ace",
+        "pages": 271,
+        "year": 1984,
+        "language": "en",
+        "isbn": "9780441569595",
+        "genres": [
+            "cyberpunk",
+            "science fiction"
+        ]
+    },
+    {
+        "title": "Snow Crash",
+        "author": "Neal Stephenson",
+        "publisher": "Bantam",
+        "pages": 480,
+        "year": 1992,
+        "language": "en",
+        "isbn": "9780553380958",
+        "genres": [
+            "cyberpunk",
+            "science fiction"
+        ]
+    },
+    {
+        "title": "Cryptonomicon",
+        "author": "Neal Stephenson",
+        "publisher": "Avon",
+        "pages": 918,
+        "year": 1999,
+        "language": "en",
+        "isbn": "9780380973460",
+        "genres": [
+            "thriller",
+            "technology"
+        ]
+    },
+    {
+        "title": "The Left Hand of Darkness",
+        "author": "Ursula K. Le Guin",
+        "publisher": "Ace",
+        "pages": 304,
+        "year": 1969,
+        "language": "en",
+        "isbn": "9780441478125",
+        "genres": [
+            "science fiction",
+            "classic"
+        ]
+    },
+    {
+        "title": "A Wizard of Earthsea",
+        "author": "Ursula K. Le Guin",
+        "publisher": "HMH",
+        "pages": 205,
+        "year": 1968,
+        "language": "en",
+        "isbn": "9780547773742",
+        "genres": [
+            "fantasy",
+            "young adult"
+        ]
+    },
+    {
+        "title": "The Name of the Wind",
+        "author": "Patrick Rothfuss",
+        "publisher": "DAW",
+        "pages": 662,
+        "year": 2007,
+        "language": "en",
+        "isbn": "9780756404741",
+        "genres": [
+            "fantasy",
+            "epic"
+        ]
+    },
+    {
+        "title": "The Wise Man's Fear",
+        "author": "Patrick Rothfuss",
+        "publisher": "DAW",
+        "pages": 994,
+        "year": 2011,
+        "language": "en",
+        "isbn": "9780756407124",
+        "genres": [
+            "fantasy",
+            "epic"
+        ]
+    },
+    {
+        "title": "Mistborn: The Final Empire",
+        "author": "Brandon Sanderson",
+        "publisher": "Tor",
+        "pages": 541,
+        "year": 2006,
+        "language": "en",
+        "isbn": "9780765311788",
+        "genres": [
+            "fantasy",
+            "epic"
+        ]
+    },
+    {
+        "title": "The Well of Ascension",
+        "author": "Brandon Sanderson",
+        "publisher": "Tor",
+        "pages": 590,
+        "year": 2007,
+        "language": "en",
+        "isbn": "9780765316882",
+        "genres": [
+            "fantasy",
+            "epic"
+        ]
+    },
+    {
+        "title": "The Hero of Ages",
+        "author": "Brandon Sanderson",
+        "publisher": "Tor",
+        "pages": 572,
+        "year": 2008,
+        "language": "en",
+        "isbn": "9780765316899",
+        "genres": [
+            "fantasy",
+            "epic"
+        ]
+    },
+    {
+        "title": "The Way of Kings",
+        "author": "Brandon Sanderson",
+        "publisher": "Tor",
+        "pages": 1007,
+        "year": 2010,
+        "language": "en",
+        "isbn": "9780765326355",
+        "genres": [
+            "fantasy",
+            "epic"
+        ]
+    },
+    {
+        "title": "Words of Radiance",
+        "author": "Brandon Sanderson",
+        "publisher": "Tor",
+        "pages": 1088,
+        "year": 2014,
+        "language": "en",
+        "isbn": "9780765326362",
+        "genres": [
+            "fantasy",
+            "epic"
+        ]
+    },
+    {
+        "title": "Oathbringer",
+        "author": "Brandon Sanderson",
+        "publisher": "Tor",
+        "pages": 1248,
+        "year": 2017,
+        "language": "en",
+        "isbn": "9780765326379",
+        "genres": [
+            "fantasy",
+            "epic"
+        ]
+    },
+    {
+        "title": "Rhythm of War",
+        "author": "Brandon Sanderson",
+        "publisher": "Tor",
+        "pages": 1232,
+        "year": 2020,
+        "language": "en",
+        "isbn": "9780765326386",
+        "genres": [
+            "fantasy",
+            "epic"
+        ]
+    },
+    {
+        "title": "The Name of the Rose",
+        "author": "Umberto Eco",
+        "publisher": "Harcourt",
+        "pages": 512,
+        "year": 1980,
+        "language": "it",
+        "isbn": "9780156001311",
+        "genres": [
+            "historical",
+            "mystery"
+        ]
+    },
+    {
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "publisher": "Riverhead",
+        "pages": 371,
+        "year": 2003,
+        "language": "en",
+        "isbn": "9781594480003",
+        "genres": [
+            "drama",
+            "historical"
+        ]
+    },
+    {
+        "title": "A Thousand Splendid Suns",
+        "author": "Khaled Hosseini",
+        "publisher": "Riverhead",
+        "pages": 372,
+        "year": 2007,
+        "language": "en",
+        "isbn": "9781594483851",
+        "genres": [
+            "drama",
+            "historical"
+        ]
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "publisher": "HarperOne",
+        "pages": 208,
+        "year": 1993,
+        "language": "en",
+        "isbn": "9780061122415",
+        "genres": [
+            "fiction",
+            "philosophy"
+        ]
+    },
+    {
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel García Márquez",
+        "publisher": "Harper Perennial",
+        "pages": 417,
+        "year": 1970,
+        "language": "en",
+        "isbn": "9780060883287",
+        "genres": [
+            "magical realism",
+            "literary"
+        ]
+    },
+    {
+        "title": "Love in the Time of Cholera",
+        "author": "Gabriel García Márquez",
+        "publisher": "Penguin",
+        "pages": 348,
+        "year": 1988,
+        "language": "en",
+        "isbn": "9780141032436",
+        "genres": [
+            "romance",
+            "literary"
+        ]
+    },
+    {
+        "title": "The Stranger",
+        "author": "Albert Camus",
+        "publisher": "Vintage",
+        "pages": 123,
+        "year": 1942,
+        "language": "fr",
+        "isbn": "9780679720201",
+        "genres": [
+            "philosophy",
+            "classic"
+        ]
+    },
+    {
+        "title": "The Plague",
+        "author": "Albert Camus",
+        "publisher": "Vintage",
+        "pages": 308,
+        "year": 1947,
+        "language": "fr",
+        "isbn": "9780679720218",
+        "genres": [
+            "philosophy",
+            "classic"
+        ]
+    },
+    {
+        "title": "The Old Man and the Sea",
+        "author": "Ernest Hemingway",
+        "publisher": "Scribner",
+        "pages": 127,
+        "year": 1952,
+        "language": "en",
+        "isbn": "9780684801223",
+        "genres": [
+            "classic",
+            "literary"
+        ]
+    },
+    {
+        "title": "For Whom the Bell Tolls",
+        "author": "Ernest Hemingway",
+        "publisher": "Scribner",
+        "pages": 480,
+        "year": 1940,
+        "language": "en",
+        "isbn": "9780684803357",
+        "genres": [
+            "classic",
+            "war"
+        ]
+    },
+    {
+        "title": "The Sun Also Rises",
+        "author": "Ernest Hemingway",
+        "publisher": "Scribner",
+        "pages": 251,
+        "year": 1926,
+        "language": "en",
+        "isbn": "9780684800714",
+        "genres": [
+            "classic",
+            "literary"
+        ]
+    },
+    {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "publisher": "Penguin Classics",
+        "pages": 671,
+        "year": 2002,
+        "language": "en",
+        "isbn": "9780140449136",
+        "genres": [
+            "classic",
+            "psychological"
+        ]
+    },
+    {
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "publisher": "Penguin Classics",
+        "pages": 824,
+        "year": 2003,
+        "language": "en",
+        "isbn": "9780140449242",
+        "genres": [
+            "classic",
+            "philosophy"
+        ]
+    },
+    {
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "publisher": "Penguin Classics",
+        "pages": 864,
+        "year": 2002,
+        "language": "en",
+        "isbn": "9780140449174",
+        "genres": [
+            "classic",
+            "romance"
+        ]
+    },
+    {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "publisher": "Penguin Classics",
+        "pages": 1296,
+        "year": 2007,
+        "language": "en",
+        "isbn": "9780143039990",
+        "genres": [
+            "classic",
+            "war"
+        ]
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "publisher": "Penguin Classics",
+        "pages": 254,
+        "year": 2003,
+        "language": "en",
+        "isbn": "9780141439578",
+        "genres": [
+            "classic",
+            "gothic"
+        ]
+    },
+    {
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "publisher": "Penguin Classics",
+        "pages": 418,
+        "year": 2003,
+        "language": "en",
+        "isbn": "9780141439844",
+        "genres": [
+            "horror",
+            "classic"
+        ]
+    },
+    {
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "publisher": "Penguin Classics",
+        "pages": 280,
+        "year": 2003,
+        "language": "en",
+        "isbn": "9780141439479",
+        "genres": [
+            "horror",
+            "classic"
+        ]
+    },
+    {
+        "title": "The Shining",
+        "author": "Stephen King",
+        "publisher": "Anchor",
+        "pages": 447,
+        "year": 1977,
+        "language": "en",
+        "isbn": "9780385121675",
+        "genres": [
+            "horror",
+            "thriller"
+        ]
+    },
+    {
+        "title": "It",
+        "author": "Stephen King",
+        "publisher": "Scribner",
+        "pages": 1138,
+        "year": 1986,
+        "language": "en",
+        "isbn": "9781501142970",
+        "genres": [
+            "horror",
+            "thriller"
+        ]
+    },
+    {
+        "title": "The Stand",
+        "author": "Stephen King",
+        "publisher": "Anchor",
+        "pages": 1153,
+        "year": 1978,
+        "language": "en",
+        "isbn": "9780307743688",
+        "genres": [
+            "post-apocalyptic",
+            "horror"
+        ]
+    },
+    {
+        "title": "Carrie",
+        "author": "Stephen King",
+        "publisher": "Anchor",
+        "pages": 199,
+        "year": 1974,
+        "language": "en",
+        "isbn": "9780307743664",
+        "genres": [
+            "horror",
+            "thriller"
+        ]
+    },
+    {
+        "title": "The Girl with the Dragon Tattoo",
+        "author": "Stieg Larsson",
+        "publisher": "Knopf",
+        "pages": 465,
+        "year": 2005,
+        "language": "en",
+        "isbn": "9780307269751",
+        "genres": [
+            "mystery",
+            "thriller"
+        ]
+    },
+    {
+        "title": "The Girl Who Played with Fire",
+        "author": "Stieg Larsson",
+        "publisher": "Knopf",
+        "pages": 724,
+        "year": 2006,
+        "language": "en",
+        "isbn": "9780307269980",
+        "genres": [
+            "mystery",
+            "thriller"
+        ]
+    },
+    {
+        "title": "The Girl Who Kicked the Hornet's Nest",
+        "author": "Stieg Larsson",
+        "publisher": "Knopf",
+        "pages": 656,
+        "year": 2007,
+        "language": "en",
+        "isbn": "9780307269997",
+        "genres": [
+            "mystery",
+            "thriller"
+        ]
+    },
+    {
+        "title": "Gone Girl",
+        "author": "Gillian Flynn",
+        "publisher": "Crown",
+        "pages": 422,
+        "year": 2012,
+        "language": "en",
+        "isbn": "9780307588371",
+        "genres": [
+            "thriller",
+            "mystery"
+        ]
+    },
+    {
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "publisher": "Doubleday",
+        "pages": 489,
+        "year": 2003,
+        "language": "en",
+        "isbn": "9780385504201",
+        "genres": [
+            "thriller",
+            "mystery"
+        ]
+    },
+    {
+        "title": "Angels & Demons",
+        "author": "Dan Brown",
+        "publisher": "Pocket Books",
+        "pages": 616,
+        "year": 2000,
+        "language": "en",
+        "isbn": "9780671027360",
+        "genres": [
+            "thriller",
+            "mystery"
+        ]
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "author": "Thomas Harris",
+        "publisher": "St. Martin's Press",
+        "pages": 367,
+        "year": 1988,
+        "language": "en",
+        "isbn": "9780312924584",
+        "genres": [
+            "thriller",
+            "horror"
+        ]
+    },
+    {
+        "title": "And Then There Were None",
+        "author": "Agatha Christie",
+        "publisher": "HarperCollins",
+        "pages": 272,
+        "year": 1939,
+        "language": "en",
+        "isbn": "9780062073488",
+        "genres": [
+            "mystery",
+            "classic"
+        ]
+    },
+    {
+        "title": "Murder on the Orient Express",
+        "author": "Agatha Christie",
+        "publisher": "HarperCollins",
+        "pages": 256,
+        "year": 1934,
+        "language": "en",
+        "isbn": "9780062073501",
+        "genres": [
+            "mystery",
+            "classic"
+        ]
+    },
+    {
+        "title": "The Hound of the Baskervilles",
+        "author": "Arthur Conan Doyle",
+        "publisher": "Penguin Classics",
+        "pages": 256,
+        "year": 2003,
+        "language": "en",
+        "isbn": "9780140437865",
+        "genres": [
+            "mystery",
+            "classic"
+        ]
+    },
+    {
+        "title": "A Study in Scarlet",
+        "author": "Arthur Conan Doyle",
+        "publisher": "Penguin Classics",
+        "pages": 188,
+        "year": 2003,
+        "language": "en",
+        "isbn": "9780140439081",
+        "genres": [
+            "mystery",
+            "classic"
+        ]
+    },
+    {
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "publisher": "Scholastic",
+        "pages": 374,
+        "year": 2008,
+        "language": "en",
+        "isbn": "9780439023528",
+        "genres": [
+            "dystopian",
+            "young adult"
+        ]
+    },
+    {
+        "title": "Catching Fire",
+        "author": "Suzanne Collins",
+        "publisher": "Scholastic",
+        "pages": 391,
+        "year": 2009,
+        "language": "en",
+        "isbn": "9780439023498",
+        "genres": [
+            "dystopian",
+            "young adult"
+        ]
+    },
+    {
+        "title": "Mockingjay",
+        "author": "Suzanne Collins",
+        "publisher": "Scholastic",
+        "pages": 390,
+        "year": 2010,
+        "language": "en",
+        "isbn": "9780439023511",
+        "genres": [
+            "dystopian",
+            "young adult"
+        ]
+    },
+    {
+        "title": "The Giver",
+        "author": "Lois Lowry",
+        "publisher": "HMH",
+        "pages": 240,
+        "year": 1993,
+        "language": "en",
+        "isbn": "9780544336261",
+        "genres": [
+            "dystopian",
+            "young adult"
+        ]
+    },
+    {
+        "title": "The Book Thief",
+        "author": "Markus Zusak",
+        "publisher": "Knopf",
+        "pages": 552,
+        "year": 2005,
+        "language": "en",
+        "isbn": "9780375842207",
+        "genres": [
+            "historical",
+            "young adult"
+        ]
+    },
+    {
+        "title": "Life of Pi",
+        "author": "Yann Martel",
+        "publisher": "Knopf",
+        "pages": 336,
+        "year": 2001,
+        "language": "en",
+        "isbn": "9780676973778",
+        "genres": [
+            "adventure",
+            "literary"
+        ]
+    },
+    {
+        "title": "The Fault in Our Stars",
+        "author": "John Green",
+        "publisher": "Dutton",
+        "pages": 313,
+        "year": 2012,
+        "language": "en",
+        "isbn": "9780525478812",
+        "genres": [
+            "young adult",
+            "romance"
+        ]
+    },
+    {
+        "title": "The Night Circus",
+        "author": "Erin Morgenstern",
+        "publisher": "Doubleday",
+        "pages": 387,
+        "year": 2011,
+        "language": "en",
+        "isbn": "9780385534635",
+        "genres": [
+            "fantasy",
+            "romance"
+        ]
+    },
+    {
+        "title": "The Song of Achilles",
+        "author": "Madeline Miller",
+        "publisher": "Ecco",
+        "pages": 378,
+        "year": 2011,
+        "language": "en",
+        "isbn": "9780062060624",
+        "genres": [
+            "historical",
+            "romance"
+        ]
+    },
+    {
+        "title": "Circe",
+        "author": "Madeline Miller",
+        "publisher": "Little, Brown",
+        "pages": 400,
+        "year": 2018,
+        "language": "en",
+        "isbn": "9780316556347",
+        "genres": [
+            "fantasy",
+            "mythology"
+        ]
+    },
+    {
+        "title": "American Gods",
+        "author": "Neil Gaiman",
+        "publisher": "William Morrow",
+        "pages": 465,
+        "year": 2001,
+        "language": "en",
+        "isbn": "9780380973651",
+        "genres": [
+            "fantasy",
+            "mythology"
+        ]
+    },
+    {
+        "title": "Good Omens",
+        "author": "Neil Gaiman and Terry Pratchett",
+        "publisher": "William Morrow",
+        "pages": 432,
+        "year": 1990,
+        "language": "en",
+        "isbn": "9780060853983",
+        "genres": [
+            "fantasy",
+            "comedy"
+        ]
+    },
+    {
+        "title": "The Colour of Magic",
+        "author": "Terry Pratchett",
+        "publisher": "Corgi",
+        "pages": 288,
+        "year": 1983,
+        "language": "en",
+        "isbn": "9780552124752",
+        "genres": [
+            "fantasy",
+            "comedy"
+        ]
+    },
+    {
+        "title": "Sapiens",
+        "author": "Yuval Noah Harari",
+        "publisher": "Harper",
+        "pages": 498,
+        "year": 2011,
+        "language": "en",
+        "isbn": "9780062316097",
+        "genres": [
+            "nonfiction",
+            "history"
+        ]
+    },
+    {
+        "title": "Homo Deus",
+        "author": "Yuval Noah Harari",
+        "publisher": "Harvill Secker",
+        "pages": 449,
+        "year": 2015,
+        "language": "en",
+        "isbn": "9780062464316",
+        "genres": [
+            "nonfiction",
+            "history"
+        ]
+    },
+    {
+        "title": "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "publisher": "Farrar, Straus and Giroux",
+        "pages": 499,
+        "year": 2011,
+        "language": "en",
+        "isbn": "9780374275631",
+        "genres": [
+            "nonfiction",
+            "psychology"
+        ]
+    },
+    {
+        "title": "The Lean Startup",
+        "author": "Eric Ries",
+        "publisher": "Crown Business",
+        "pages": 336,
+        "year": 2011,
+        "language": "en",
+        "isbn": "9780307887894",
+        "genres": [
+            "business",
+            "nonfiction"
+        ]
+    },
+    {
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "publisher": "Prentice Hall",
+        "pages": 464,
+        "year": 2008,
+        "language": "en",
+        "isbn": "9780132350884",
+        "genres": [
+            "programming",
+            "software"
+        ]
+    },
+    {
+        "title": "Les Misérables",
+        "author": "Victor Hugo",
+        "publisher": "Gallimard",
+        "pages": 1232,
+        "year": 2007,
+        "language": "fr",
+        "isbn": "9782070409189",
+        "genres": [
+            "classic",
+            "historical"
+        ]
+    },
+    {
+        "title": "Cien años de soledad",
+        "author": "Gabriel García Márquez",
+        "publisher": "Sudamericana",
+        "pages": 417,
+        "year": 2007,
+        "language": "es",
+        "isbn": "9789500724016",
+        "genres": [
+            "magical realism",
+            "literary"
+        ]
+    },
+    {
+        "title": "El amor en los tiempos del cólera",
+        "author": "Gabriel García Márquez",
+        "publisher": "Diana",
+        "pages": 368,
+        "year": 2007,
+        "language": "es",
+        "isbn": "9780307389732",
+        "genres": [
+            "romance",
+            "literary"
+        ]
+    },
+    {
+        "title": "Der Prozess (The Trial)",
+        "author": "Franz Kafka",
+        "publisher": "Rowohlt",
+        "pages": 272,
+        "year": 2002,
+        "language": "de",
+        "isbn": "9783499101315",
+        "genres": [
+            "classic",
+            "philosophy"
+        ]
+    },
+    {
+        "title": "Die Verwandlung (Metamorphosis)",
+        "author": "Franz Kafka",
+        "publisher": "Reclam",
+        "pages": 144,
+        "year": 2008,
+        "language": "de",
+        "isbn": "9783150099001",
+        "genres": [
+            "classic",
+            "absurdism"
+        ]
+    },
+    {
+        "title": "Le Petit Prince",
+        "author": "Antoine de Saint-Exupéry",
+        "publisher": "Gallimard",
+        "pages": 96,
+        "year": 2005,
+        "language": "fr",
+        "isbn": "9782070612756",
+        "genres": [
+            "children",
+            "philosophy"
+        ]
+    },
+    {
+        "title": "La sombra del viento",
+        "author": "Carlos Ruiz Zafón",
+        "publisher": "Planeta",
+        "pages": 576,
+        "year": 2001,
+        "language": "es",
+        "isbn": "9788408172177",
+        "genres": [
+            "mystery",
+            "historical"
+        ]
+    },
+    {
+        "title": "Il Gattopardo",
+        "author": "Giuseppe Tomasi di Lampedusa",
+        "publisher": "Feltrinelli",
+        "pages": 336,
+        "year": 2002,
+        "language": "it",
+        "isbn": "9788807900155",
+        "genres": [
+            "historical",
+            "classic"
+        ]
+    },
+    {
+        "title": "El Aleph",
+        "author": "Jorge Luis Borges",
+        "publisher": "Emecé",
+        "pages": 176,
+        "year": 2005,
+        "language": "es",
+        "isbn": "9789500410131",
+        "genres": [
+            "short stories",
+            "literary"
+        ]
+    },
+    {
+        "title": "Le Rouge et le Noir",
+        "author": "Stendhal",
+        "publisher": "Gallimard",
+        "pages": 544,
+        "year": 2000,
+        "language": "fr",
+        "isbn": "9782070378867",
+        "genres": [
+            "classic",
+            "romance"
+        ]
+    },
+    {
+        "title": "Don Quijote de la Mancha",
+        "author": "Miguel de Cervantes",
+        "publisher": "Espasa",
+        "pages": 863,
+        "year": 2005,
+        "language": "es",
+        "isbn": "9788467032819",
+        "genres": [
+            "classic",
+            "adventure"
+        ]
+    },
+    {
+        "title": "Faust",
+        "author": "Johann Wolfgang von Goethe",
+        "publisher": "Reclam",
+        "pages": 464,
+        "year": 2008,
+        "language": "de",
+        "isbn": "9783150000014",
+        "genres": [
+            "classic",
+            "tragedy"
+        ]
+    },
+    {
+        "title": "I promessi sposi",
+        "author": "Alessandro Manzoni",
+        "publisher": "Mondadori",
+        "pages": 720,
+        "year": 2000,
+        "language": "it",
+        "isbn": "9788804494442",
+        "genres": [
+            "classic",
+            "historical"
+        ]
+    },
+    {
+        "title": "Derviš i smrt",
+        "author": "Meša Selimović",
+        "publisher": "Svjetlost",
+        "pages": 410,
+        "year": 1966,
+        "language": "hr",
+        "isbn": "9788674360205",
+        "genres": [
+            "classic",
+            "philosophy"
+        ]
+    },
+    {
+        "title": "Na Drini ćuprija",
+        "author": "Ivo Andrić",
+        "publisher": "Prosveta",
+        "pages": 314,
+        "year": 1945,
+        "language": "hr",
+        "isbn": "9788617001060",
+        "genres": [
+            "historical",
+            "classic"
+        ]
+    }
+]
