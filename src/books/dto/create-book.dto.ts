@@ -43,4 +43,8 @@ export class CreateBookDto {
   @Length(2, 10)
   language?: string;
 
+  @IsString()
+  @IsNotEmpty()
+  image_url?: string;
+
 }

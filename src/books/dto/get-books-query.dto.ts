@@ -84,6 +84,5 @@ export class GetBooksQueryDto {
     page?: number = 1;
 
 
-
 }
 

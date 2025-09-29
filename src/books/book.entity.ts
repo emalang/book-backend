@@ -29,4 +29,7 @@ export class Book {
     @Column({ length: 10, nullable: true })
     language?: string;
 
+    @Column({ type: 'text', nullable: true })
+    image_url?: string;
+
 }
